@@ -1,16 +1,53 @@
 ### Hi there 👋
+#### My name is Dmitry Nesmeyanov 😎
+I work as the Head of the Neural Networks Development and Data Analysis department at [VITA](https://vitaexpress.ru/), Samara, Russia.
+Furthermore, I am a student in the best master's program in the world, [AI Talent Hub](https://ai.itmo.ru/) at [ITMO University](https://itmo.ru/), St. Petersburg.
 
-<!--
-**smeyanoff/smeyanoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### How to contact me
+You can reach me on Telegram at @smeyanof.
 
-Here are some ideas to get you started:
+### 🎒 My Projects 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+To get a better understanding of my projects, I have split my repositories into ML areas with short descriptions.
+
+#### 🎞 Computer Vision
+
+##### 🚗 Car Number Detection
+This project focuses on detecting car license plates and recognizing the numbers on them. YOLO was trained on Russian license plates.
+
+[PROJECT](https://github.com/smeyanoff/car-number-detection)
+
+##### 🏠 Image Depth Estimation
+Estimate the depth of an object using only a photo.
+
+[PROJECT](https://github.com/smeyanoff/image-depth-estimation)
+
+#### 🗨 Natural Language Processing
+
+##### 🏷 Tags By Review
+This project aims to find tags (short descriptions of locations) by analyzing user reviews about those locations. The RoBERTa model was used for this task.
+
+[PROJECT](https://github.com/smeyanoff/tags-by-review-nlp)
+
+#### 🤖 Reinforcement Learning
+
+##### 👽🤡 Generate Faces
+Generate faces using GANs.
+
+[PROJECT](https://github.com/smeyanoff/generate-faces-csp-gan)
+
+##### 🤖🤖 RL
+Just Homework 
+
+[PROJECT](https://github.com/smeyanoff/reinforcement_learning)
+
+#### 🚚 MLOPS and DevOps
+
+##### 🟥 Kuberay Serving System
+Use KubeRay to serve ML models in Kubernetes hosted on-premise.
+
+[PROJECT](https://github.com/smeyanoff/kuberay-serving-system)
+
+##### Streamlit with Rayserve
+
+[PROJECT](https://github.com/smeyanoff/rayserve-streamlit-apps)
