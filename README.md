@@ -39,7 +39,7 @@ Generate faces using GANs.
 #### 🤖🤖 RL
 Just Homework 
 
-[PROJECT](https://github.com/smeyanoff/reinforcement_learning)
+[PROJECT](https://github.com/smeyanoff/reinforcment_learning)
 
 ### 🚚 MLOPS and DevOps
 
