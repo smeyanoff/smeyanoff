@@ -41,7 +41,7 @@ Just Homework
 
 [PROJECT](https://github.com/smeyanoff/reinforcment_learning)
 
-### 🚚 MLOPS and DevOps
+### 🚚 Projects
 
 #### 🟥 Kuberay Serving System
 Use KubeRay to serve ML models in Kubernetes hosted on-premise.
