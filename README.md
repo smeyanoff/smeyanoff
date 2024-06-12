@@ -6,8 +6,17 @@ Furthermore, I am a student in the best master's program in the world, [AI Talen
 ## How to contact me
 You can reach me on Telegram at @smeyanof.
 
-## 🎒 My Projects 
+# 🎒 My Projects
 
+## Pogramming
+
+### 🤖 tg-bot
+Telegram bot with authentication, asynchronous database connections and user role routing
+
+[PROJECT](https://github.com/smeyanoff/tg-bot-auth)
+
+
+## ML
 To get a better understanding of my projects, I have split my repositories into ML areas with short descriptions.
 
 ### 🎞 Computer Vision
@@ -41,7 +50,7 @@ Just Homework
 
 [PROJECT](https://github.com/smeyanoff/reinforcment_learning)
 
-### 🚚 Projects
+### 🚚 MLOps
 
 #### 🟥 Kuberay Serving System
 Use KubeRay to serve ML models in Kubernetes hosted on-premise.
