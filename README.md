@@ -1,7 +1,8 @@
 # Hi there 👋
 ## My name is Dmitry Nesmeyanov 😎
 I work as the Head of the Neural Networks Development and Data Analysis department at [VITA](https://vitaexpress.ru/), Samara, Russia.
-Furthermore, I am a student in the best master's program in the world, [AI Talent Hub](https://ai.itmo.ru/) at [ITMO University](https://itmo.ru/), St. Petersburg.
+
+Master's degree, [AI Talent Hub](https://ai.itmo.ru/) at [ITMO University](https://itmo.ru/), St. Petersburg.
 
 ## How to contact me
 You can reach me on Telegram at @smeyanof.
