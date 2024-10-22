@@ -9,14 +9,6 @@ You can reach me on Telegram at @smeyanof.
 
 # 🎒 My Projects
 
-## Pogramming
-
-### 🤖 tg-bot
-Telegram bot with authentication, asynchronous database connections and user role routing
-
-[PROJECT](https://github.com/smeyanoff/tg-bot-auth)
-
-
 ## ML
 To get a better understanding of my projects, I have split my repositories into ML areas with short descriptions.
 
@@ -47,7 +39,6 @@ Generate faces using GANs.
 [PROJECT](https://github.com/smeyanoff/generate-faces-csp-gan)
 
 #### 🤖🤖 RL
-Just Homework 
 
 [PROJECT](https://github.com/smeyanoff/reinforcment_learning)
 
